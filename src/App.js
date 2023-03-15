@@ -16,10 +16,7 @@ const App = () => {
       id: 4,
       title: 'Womens',
     },
-    {
-      id: 5,
-      title: 'Mens',
-    },
+
   ];
 
   return (
